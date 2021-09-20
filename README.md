@@ -14,3 +14,10 @@ with other methods show that the proposed active contour model not only can conv
 indentations, along with maintaining weak boundaries but also shows higher accuracy in segmentation of tortuous
 areas, especially in noisy images.
 
+
+# references
+[1] Chenyang Xu and J. L. Prince, “Snakes, shapes, and gradient vector flow,” IEEE Transactions on Image Processing, vol. 7, pp. 359–369, March 1998.
+
+[2] C. Xu and J. L. Prince, “Generalized gradient vector flow external forces for active contours1a preliminary version of this paper appeared in the proceedings of the johns hopkins university 1997 conference of information sciences and systems.1,” Signal Processing, vol. 71, no. 2, pp. 131 – 139, 1998.
+
+[3] S. Zhu and R. Gao, “A novel generalized gradient vector flow snake model using minimal surface and component-normalized method for medical image segmentation,” Biomedical Signal Processing and Control, vol. 26, pp. 1 – 10, 2016.
